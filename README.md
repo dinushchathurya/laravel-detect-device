@@ -1,0 +1,1 @@
+## Laravel detect device is Mobile or Laptop or Desktop
