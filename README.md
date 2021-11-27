@@ -2,10 +2,6 @@
 
 This is an Laravel demo apllication of identify the user's device using "jenssegers/agent" package and show the result based on the device.
 
-## Introduction
-
-Laravel Datatable example with Edit user and Delete user actions.
-
 ## Setup
  
 ```
